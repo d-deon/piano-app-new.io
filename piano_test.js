@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
            
             return playClickSound();
         });
-        window.location.href = 'main_menu.html';
+        window.location.href = 'index.html';
     });
 });
 function playClickSound() {

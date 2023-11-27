@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
       
       setTimeout(function () {
-          window.location.href = 'main_menu.html';
+          window.location.href = 'index.html';
       }, 500); 
   });
 });
